@@ -13,8 +13,6 @@ model = Perceptron(eta=eta, epochs=epochs)
 model.fit(X, y)
 ```
 
-
-
 # Reference -
 [official python docs](https://packaging.python.org/tutorials/packaging-projects/)
 
